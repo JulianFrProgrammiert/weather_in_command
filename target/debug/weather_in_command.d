@@ -1,0 +1,1 @@
+/media/joel/Volume/Dev/Projects/weather_in_command/target/debug/weather_in_command: /media/joel/Volume/Dev/Projects/weather_in_command/src/env.rs /media/joel/Volume/Dev/Projects/weather_in_command/src/main.rs
